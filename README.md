@@ -6,7 +6,7 @@ For model training via logistic regression, SVM, Fasttext, and CNN, open termina
 python Model_training.py
 ```
 The best fasttext model is saved into 'best_fasttext.bin'. Due to the large file size of 807MB, it is uploaded to google drive folder "Project_Data".
-Please access the model via link: 
+Please access the model via link: https://drive.google.com/file/d/1eJcu70eLjbwvCpzIcKaggadtn5Zc2sSk/view?usp=sharing
 
 For running the Flask App, please open two terminal windows, and run these commands separately:
 ```
